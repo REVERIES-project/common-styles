@@ -13,6 +13,6 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "resolutions": {
-    "paper-styles": "^1.0.0"
+    "paper-styles": "PolymerElements/paper-styles#^1.0.0"
   }
 }
